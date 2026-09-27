@@ -8,7 +8,7 @@ Este projeto consiste em um fluxo automatizado de comunicação personalizada pa
 
 Abaixo está a representação visual do fluxo de trabalho construído no N8N:
 
-![Fluxo de Trabalho N8N](./docs/workflow_preview.jpg)
+![Fluxo de Trabalho N8N](FluxodetrabalhoN8N.JPG)
 
 ---
 
