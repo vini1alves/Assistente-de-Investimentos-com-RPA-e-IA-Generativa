@@ -71,8 +71,8 @@ Abaixo está a representação visual do fluxo de trabalho construído no N8N:
    - Adicionou-se uma etapa condicional (`If`) com verificação Regex de e-mail para impedir requisições inválidas no nó do Gmail, economizando quota de API e prevenindo erros.
 4. **Resiliência e Fallback**:
    - No nó `Code in JavaScript1`, mensagens estáticas padrão foram pré-geradas para cada perfil de investidor. Isso possibilita fácil alteração caso a aplicação precise rodar offline ou sem a camada de LLM.
-4. **Observação da imagem**:
-   - Desativei o final do e-mail para retirar minhas credenciais para baixar o o arquivo n8n em json.
+5. **Observação da imagem**:
+   - Desativei o fluxo no final do e-mail, para retirar minhas credenciais para baixar o arquivo n8n em json.
 
 ---
 
